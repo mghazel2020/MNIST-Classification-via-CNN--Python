@@ -375,7 +375,7 @@ plt<span style="color:#808030; ">.</span>legend<span style="color:#808030; ">(</
 ###### 4.2.2.5.2. Visualize some of the test images and their associated targets:
 
 
-<img src="images/25-random-tEST-images.png" width = 1000/>
+<img src="images/25-random-test-images.png" width = 1000/>
 
 #### 4.2.3. Normalize the training and test images to the interval: [0, 1]:
 
