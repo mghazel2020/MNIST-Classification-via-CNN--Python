@@ -722,10 +722,10 @@ In view of the presented results, we make the following observations:
 
 ## 7. References
 
-1. Yun Lecun, Corina Cortes, Christopher J.C. Buges. The MNIST database if handwritten digits. Retrieved from: http://yann.lecun.com/exdb/mnist/ (September 10th, 2022).
-Prateek Goyal. MNIST dataset using Deep Leaning algorithm. Retrieved from: https://medium.com/@prtk13061992/mnist-dataset-using-deep-learning-algorithm-ann-c6f83aa594f5 (September 10th, 2022).
-2. Jason Brownlee. How to Develop a CNN for MNIST Handwritten Digit Classification. Retrieved from: https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/ (September 10th, 2022).
-3. Sambit Mahapatra. A simple 2D CNN for MNIST digit recognition. Retrieved from: https://towardsdatascience.com/a-simple-2d-cnn-for-mnist-digit-recognition-a998dbc1e79a (September 10th, 2022).
-4. Orhan G. Yalcin. Image Classification in 10 Minutes with MNIST Dataset Using Convolutional Neural Networks to Classify Handwritten Digits with TensorFlow and Keras | Supervised Deep Learning. Retrieved from: https://towardsdatascience.com/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d (September 10th, 2022).
-5. Jay Gupta. Going beyond 99% — MNIST Handwritten Digits Recognition Learn how to optimize a neural network through various techniques to reach human-level performance. Retrieved from: https://towardsdatascience.com/going-beyond-99-mnist-handwritten-digits-recognition-cfff96337392 (September 10th, 2022).
+1. Yun Lecun, Corina Cortes, Christopher J.C. Buges. The MNIST database if handwritten digits. Retrieved from: http://yann.lecun.com/exdb/mnist/.
+Prateek Goyal. MNIST dataset using Deep Leaning algorithm. Retrieved from: https://medium.com/@prtk13061992/mnist-dataset-using-deep-learning-algorithm-ann-c6f83aa594f5.
+2. Jason Brownlee. How to Develop a CNN for MNIST Handwritten Digit Classification. Retrieved from: https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/.
+3. Sambit Mahapatra. A simple 2D CNN for MNIST digit recognition. Retrieved from: https://towardsdatascience.com/a-simple-2d-cnn-for-mnist-digit-recognition-a998dbc1e79a.
+4. Orhan G. Yalcin. Image Classification in 10 Minutes with MNIST Dataset Using Convolutional Neural Networks to Classify Handwritten Digits with TensorFlow and Keras | Supervised Deep Learning. Retrieved from: https://towardsdatascience.com/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d.
+5. Jay Gupta. Going beyond 99% — MNIST Handwritten Digits Recognition Learn how to optimize a neural network through various techniques to reach human-level performance. Retrieved from: https://towardsdatascience.com/going-beyond-99-mnist-handwritten-digits-recognition-cfff96337392.
 
