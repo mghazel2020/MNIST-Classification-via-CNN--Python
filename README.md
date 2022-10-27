@@ -1,6 +1,6 @@
 # MNIST Hand-written Digits Classification using Convolutional Neural Networks (CNN)
 
-<img src="images/banner.png" width = 1000/>
+<img src="images/banner.png" width = "1000" />
 
 ## 1. Objective
 
